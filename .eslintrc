@@ -6,5 +6,6 @@
   "rules": {
     "linebreak-style": ["error", "windows"],
     "no-unused-vars": 1,
+    "consistent-return": 0
   }
 }
