@@ -4,6 +4,7 @@
     "browser": true
   },
   "rules": {
-    "linebreak-style": ["error", "windows"]
+    "linebreak-style": ["error", "windows"],
+    "no-unused-vars": 1,
   }
 }
